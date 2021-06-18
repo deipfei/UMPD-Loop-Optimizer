@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/UMPD-Loop-Optimizer/static/css/main.42c1f228.chunk.css",
+    "main.js": "/UMPD-Loop-Optimizer/static/js/main.fc0d026e.chunk.js",
+    "main.js.map": "/UMPD-Loop-Optimizer/static/js/main.fc0d026e.chunk.js.map",
+    "runtime-main.js": "/UMPD-Loop-Optimizer/static/js/runtime-main.7363fe4c.js",
+    "runtime-main.js.map": "/UMPD-Loop-Optimizer/static/js/runtime-main.7363fe4c.js.map",
+    "static/js/2.c9affd88.chunk.js": "/UMPD-Loop-Optimizer/static/js/2.c9affd88.chunk.js",
+    "static/js/2.c9affd88.chunk.js.map": "/UMPD-Loop-Optimizer/static/js/2.c9affd88.chunk.js.map",
+    "static/js/3.d0081ed8.chunk.js": "/UMPD-Loop-Optimizer/static/js/3.d0081ed8.chunk.js",
+    "static/js/3.d0081ed8.chunk.js.map": "/UMPD-Loop-Optimizer/static/js/3.d0081ed8.chunk.js.map",
+    "index.html": "/UMPD-Loop-Optimizer/index.html",
+    "static/css/main.42c1f228.chunk.css.map": "/UMPD-Loop-Optimizer/static/css/main.42c1f228.chunk.css.map",
+    "static/js/2.c9affd88.chunk.js.LICENSE.txt": "/UMPD-Loop-Optimizer/static/js/2.c9affd88.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7363fe4c.js",
+    "static/js/2.c9affd88.chunk.js",
+    "static/css/main.42c1f228.chunk.css",
+    "static/js/main.fc0d026e.chunk.js"
+  ]
+}
