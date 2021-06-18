@@ -1,0 +1,16 @@
+.horseWrapper {
+	width: 125px;
+}
+
+.loopWrapper {
+	display:  flex;
+	margin: auto;
+	flex-direction: row;
+	justify-content: center;
+
+	width: 750px;
+	padding: 10px;
+	border: 1px solid black;
+	border-radius: 10px;
+	margin-top: 25px;
+}

@@ -1,0 +1,18 @@
+.selector {
+	display: flex;
+	width: 750px;
+	margin: auto;
+	flex-wrap: wrap;
+	justify-content: center;
+	background-color: #ddd;
+	padding: 10px;
+	border: 1px solid #bbb;
+}
+
+.selected {
+	background-color: #99ff99;
+}
+
+.disabled {
+	background-color: #ff9999;
+}

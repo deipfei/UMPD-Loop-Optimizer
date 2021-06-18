@@ -1,0 +1,19 @@
+.horseWrapper {
+  width: 125px;
+}
+.horseMain {
+  width:  100px;
+  height: 100px;
+  border:  1px solid black;
+  margin:  auto;
+  margin-top: 10px;
+}
+
+.horseSecondary {
+  width:  50%;
+  height:  50%;
+  border-radius: 25px;
+  margin:  auto;
+  position: relative;
+  top:  25%;
+}
